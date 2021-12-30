@@ -1,5 +1,18 @@
 body {
-   color: red;
+   color:#333;
    font-family: 'Courier New', Courier, monospace; 
+   text-align: center;
+}
+
+#container {
+   width: 80%;
+   text-align: justify;
+   font-size: medium;
+   padding: 1em;
+   margin: 0px auto;
+   border: 2px solid #333;
+}
+
+#container h1 {
    text-align: center;
 }
