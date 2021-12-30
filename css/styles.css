@@ -15,9 +15,6 @@ body {
 
 #container h1 {
    text-align: center;
-<<<<<<< HEAD
-   font-size: xx-large;
-=======
 }
 
 #header {
@@ -31,5 +28,4 @@ body {
 
 #post {
    padding: 1em;
->>>>>>> header
 }
