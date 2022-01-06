@@ -26,6 +26,11 @@ body {
    text-align: center;
 }
 
+#header #logo-dragon {
+   width: 5%;
+   vertical-align: middle;
+}
+
 #post {
    padding: 1em;
 }
