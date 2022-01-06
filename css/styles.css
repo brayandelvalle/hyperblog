@@ -34,3 +34,10 @@ body {
 #post {
    padding: 1em;
 }
+
+#footer {
+   color: white;
+   text-align: center;
+   background: darkgoldenrod;
+   padding: 0.001em;
+}
